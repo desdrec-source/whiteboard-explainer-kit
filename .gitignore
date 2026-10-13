@@ -1,0 +1,7 @@
+out/
+__pycache__/
+*.pyc
+assets/*.png
+sfx/*.wav
+fonts/*.ttf
+assets/src/
