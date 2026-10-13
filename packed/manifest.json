@@ -1,0 +1,74 @@
+[
+ {
+  "packed": "hand_photo_cut.webp",
+  "parts": [
+   "packed/hand_photo_cut.webp.b64.00",
+   "packed/hand_photo_cut.webp.b64.01",
+   "packed/hand_photo_cut.webp.b64.02",
+   "packed/hand_photo_cut.webp.b64.03",
+   "packed/hand_photo_cut.webp.b64.04",
+   "packed/hand_photo_cut.webp.b64.05",
+   "packed/hand_photo_cut.webp.b64.06",
+   "packed/hand_photo_cut.webp.b64.07"
+  ],
+  "sha256": "c26a888fe3355ba22f3eb188140884b10005c5062ac7e0f288ded18181285ce6",
+  "out": "assets/hand_photo_cut.png"
+ },
+ {
+  "packed": "hand_deep_cut.webp",
+  "parts": [
+   "packed/hand_deep_cut.webp.b64.00",
+   "packed/hand_deep_cut.webp.b64.01",
+   "packed/hand_deep_cut.webp.b64.02",
+   "packed/hand_deep_cut.webp.b64.03",
+   "packed/hand_deep_cut.webp.b64.04",
+   "packed/hand_deep_cut.webp.b64.05",
+   "packed/hand_deep_cut.webp.b64.06"
+  ],
+  "sha256": "02ef39b82af6a075172aa71a5facc83845407b3a90384c4fb88f0bf6d90511bf",
+  "out": "assets/hand_deep_cut.png"
+ },
+ {
+  "packed": "hand_light_medium_cut.webp",
+  "parts": [
+   "packed/hand_light_medium_cut.webp.b64.00",
+   "packed/hand_light_medium_cut.webp.b64.01"
+  ],
+  "sha256": "0a556f7577d505f9378f903d642a9b43cd393ee15a72a92cebfb10a0f33ac0a0",
+  "out": "assets/hand_light_medium_cut.png"
+ },
+ {
+  "packed": "marker_lines.flac",
+  "parts": [
+   "packed/marker_lines.flac.b64.00",
+   "packed/marker_lines.flac.b64.01"
+  ],
+  "sha256": "251a06ee74781b2a962d43c98721fc4f22bbcce9d385825f8032a142eeca764c",
+  "out": "sfx/marker_lines.wav"
+ },
+ {
+  "packed": "bsb_0807_whiteboard_marker.flac",
+  "parts": [
+   "packed/bsb_0807_whiteboard_marker.flac.b64.00",
+   "packed/bsb_0807_whiteboard_marker.flac.b64.01"
+  ],
+  "sha256": "45f3e782ab105661b4931e6cce77f4f729ea513bcc107274dc3ad29dbf72eed7",
+  "out": "sfx/bsb_0807_whiteboard_marker.wav"
+ },
+ {
+  "packed": "PatrickHand-Regular.ttf",
+  "parts": [
+   "packed/PatrickHand-Regular.ttf.b64.00"
+  ],
+  "sha256": "496937dafcb18bf2c2f624ed02c8f7f4d47bd1e4e6e5646c42b6cfd873c6b13c",
+  "out": "fonts/PatrickHand-Regular.ttf"
+ },
+ {
+  "packed": "Caveat-VariableFont_wght.ttf",
+  "parts": [
+   "packed/Caveat-VariableFont_wght.ttf.b64.00"
+  ],
+  "sha256": "2849e2b28ab6c60e7fe090c759285a5a823acda2abee69c762b419117568752a",
+  "out": "fonts/Caveat-VariableFont_wght.ttf"
+ }
+]
