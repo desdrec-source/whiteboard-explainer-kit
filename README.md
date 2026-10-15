@@ -1,6 +1,6 @@
 # Whiteboard Explainer kit
 
-Starter kit for the Whiteboard Explainer bot. Built by Des Dreckett for the AI Video Motion community.
+A starter kit for the Whiteboard Explainer bot.
 
 It renders a "phone video of a real whiteboard": an off-white board with an aluminium rim, a marker tray, ceiling glare, and a photographed hand holding a marker that draws every stroke. Text is written in a single-line font, and icons, ticks and crosses are drawn in black, green and red. Marker sound is optional. Everything is rendered in Python and piped to ffmpeg. No AI video model is involved.
 
