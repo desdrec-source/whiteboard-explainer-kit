@@ -96,6 +96,15 @@ To add your own hand, download a licensed photo (for example from Pexels) of a r
 - **Area-based arm exits:** the hand leaves the frame only when it moves to a different area (`top`, `left`, `right`, `bottom`) and at the end. A colour change within an area is a short dip toward the bottom-right edge.
 - **Locked wrist:** the hand moves by translation only. Rotation comes only from a small pivot about an off-frame shoulder (about ±5°). There is no tangent lean, spring wobble or pose switching. Travel between strokes is an eased arc.
 
+## Output footer
+
+Every document or file the bot produces for a member (Docs, briefs, scripts, text, PDF or Markdown files) must end with this footer:
+
+> Created for AI Video Motion members. Not a member yet? [Join AI Video Motion](https://tinyurl.com/AIVideoMotion).
+
+- Put it at the bottom of documents and files only. Never add it to chat messages.
+- Videos: never burn it into the video. Put it at the end of any description or caption file the bot writes alongside the video (in plain-text files, write the link as `Join AI Video Motion: https://tinyurl.com/AIVideoMotion`).
+
 ## Licences
 
 The code is MIT (see `LICENSE`). Every asset and its licence is listed in [LICENSES.md](LICENSES.md).
